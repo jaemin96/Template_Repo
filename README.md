@@ -15,4 +15,10 @@
   $ npx eslint --init
   ```
 
-  `CRA의 경우는 일련의 과정 생략 가능`
+- prettier
+
+  ```
+  $ npm i -D prettier eslint-config-prettier eslint-plugin-prettier
+  ```
+
+`CRA의 경우는 일련의 과정 생략 가능`

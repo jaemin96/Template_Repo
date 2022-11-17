@@ -3,3 +3,9 @@
 
 #eslint
 .eslintcache
+
+#node_module
+/node_module
+
+#pakage-lock.json
+pakage-lock.json
