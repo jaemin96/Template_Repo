@@ -5,7 +5,7 @@
 .eslintcache
 
 #node_module
-/node_module
+/node_modules
 
 #pakage-lock.json
 pakage-lock.json
